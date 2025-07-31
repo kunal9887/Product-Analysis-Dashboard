@@ -87,4 +87,4 @@ Trend Awareness: Detect seasonality or regional demand spikes.
 Inventory & Sales Decisions: Align product availability with actual demand patterns.
 Fast, Data-Driven Reporting: Reduces manual Excel effort and delivers insights in seconds.
 
-7. 🖼️ Screenshot - 
+7. 🖼️ Screenshot - https://github.com/kunal9887/Product-Analysis-Dashboard/blob/main/productDashboard.png
