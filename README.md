@@ -14,7 +14,7 @@ This Product Performance Dashboard enables businesses to track revenue, profit, 
 📁 File Format – .pbix for Power BI file, .png for dashboard screenshot
 
 4. 📈 Data Source -
-Source: Sample business dataset (Power BI demo data)
+Source: Kaggle
 Dataset includes:
 
 Product Categories & Subcategories
